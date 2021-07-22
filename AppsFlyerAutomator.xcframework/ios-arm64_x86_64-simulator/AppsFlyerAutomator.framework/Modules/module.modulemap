@@ -1,0 +1,4 @@
+framework module AppsFlyerAutomator {
+  header "AppsFlyerAutomator-Swift.h"
+  requires objc
+}
